@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: visible;
+}
+
+body {
+
+    background-color: black;
+
+}
+
+.about {
+
+    color: azure;
+    text-align: center;
+    justify-content: center;
+    margin-top: 60px;
+    font-size: 30px;
+    text-align: justify;
+   
+}
+
+.content1 {
+
+
+    margin-left: 400px;
+}
+
+.img {
+    border-radius: 200px;
+}
